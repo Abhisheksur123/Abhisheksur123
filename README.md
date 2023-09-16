@@ -1,4 +1,4 @@
-==![MasterHead](https://www.freepik.com/free-video/html-programming-code-animation-black-background_170501#fromView=search&term=full+stack+developer&page=1&position=0)
+![MasterHead](https://www.freepik.com/free-video/html-programming-code-animation-black-background_170501#fromView=search&term=full+stack+developer&page=1&position=0)
 <h1 align="center">Hi 👋, I'm Abhishek Sur</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
